@@ -3,13 +3,6 @@
   padding-bottom: 25px;
 }
 
-.container--color {
-  border-radius: 10px;
-  background: #f1f1f1;
-
-  padding: 25px 30px 25px 45px;
-}
-
 .title {
   font-size: 60px;
   font-weight: 900;
