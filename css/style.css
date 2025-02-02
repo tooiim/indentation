@@ -1,0 +1,47 @@
+.section {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.container--color {
+  border-radius: 10px;
+  background: #f1f1f1;
+
+  padding: 25px 30px 25px 45px;
+}
+
+.title {
+  font-size: 60px;
+  font-weight: 900;
+
+  margin-bottom: 30px;
+}
+
+.section-title {
+  font-size: 36px;
+}
+
+.section-text {
+  margin-bottom: 30px;
+}
+
+.image {
+  display: inline-block;
+  margin-bottom: 30px;
+}
+
+.image-center {
+  display: block;
+  margin: 0 auto;
+
+  margin-bottom: 30px;
+}
+
+.span-accent {
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.span-italic {
+  font-style: italic;
+}

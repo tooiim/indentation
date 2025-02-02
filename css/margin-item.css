@@ -1,0 +1,28 @@
+.image-container {
+  border: 1px solid #000;
+
+  margin-bottom: 30px;
+}
+
+.smargin-item__text {
+  padding: 15px 30px;
+  
+  margin-bottom: 0;
+}
+
+.margin-item .section-text:last-child {
+  margin: 0;
+}
+
+.margin-item .section-figure:last-of-type {
+  margin-bottom: 30px;
+}
+
+.image--5 {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.image--7 {
+  margin-bottom: 0;
+}

@@ -1,0 +1,7 @@
+.container--article {
+  margin-bottom: 50px;
+}
+
+.container--article .section-text:last-child {
+  margin-bottom: 0;
+}

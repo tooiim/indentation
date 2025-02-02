@@ -1,0 +1,25 @@
+.bottom {
+  padding-top: 25px;
+
+}
+
+.list {
+  margin-bottom: 30px;
+
+}
+
+.item {
+  margin-bottom: 10px;
+}
+
+.list__item {
+  margin-bottom: 10px;
+}
+
+.list__item:last-child {
+  margin-bottom: 0;
+}
+
+.bottom .section-text {
+  margin-bottom: 0;
+}
